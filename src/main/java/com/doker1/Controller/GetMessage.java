@@ -8,6 +8,6 @@ public class GetMessage {
 
 	@GetMapping("/jenkin")
 	public String message() {
-		return "Hello Jenkins";
+		return "Jenkins Setup Completed";
 	}
 }
