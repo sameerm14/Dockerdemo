@@ -8,6 +8,6 @@ public class Control {
 
 	@GetMapping("/message")
 	public String getMessage() {
-		return "Hello Sammy";
+		return "Hello Sammy How are you";
 	}
 }
